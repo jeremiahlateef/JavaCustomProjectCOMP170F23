@@ -19,4 +19,4 @@ Programmer perspective
 
 
 Store the data as an array. If the user chooses peanut
-In the file, we have ddi
+In the file, we have
