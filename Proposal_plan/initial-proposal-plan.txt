@@ -17,9 +17,6 @@ Programmer perspective
 7.	Save all three responses in a variable. 
 8.	Use loop to query the database 
 
-brand
-If (brand.nameEquals(zara)){
 
-}
 Store the data as an array. If the user chooses peanut
 In the file, we have ddi
