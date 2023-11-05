@@ -1,0 +1,25 @@
+Proposal Idea for COMP 170
+Food
+User Perspective
+1.	A user opens the site
+2.	Then the user is welcomed with a statement: The statement welcomes the user and states the mission of the project. 
+3.	The user is asked a series of questions.
+4.	The user input their answer to each question
+5.	The user answers will result in a tailored response that is suits their taste. 
+
+Programmer perspective
+1.	We write a statement that welcomes the user and informs them of the objective of the site. (print statement)
+2.	The user is asked three questions. 
+3.	The response must be a string. Use Scanner Method for this
+4.	Throw an error if the user submits a data type that is not a String or that is not among the option
+5.	Tell the user to reenter their response if they give an illegal response. 
+6.	We store the user response in variables. 
+7.	Save all three responses in a variable. 
+8.	Use loop to query the database 
+
+brand
+If (brand.nameEquals(zara)){
+
+}
+Store the data as an array. If the user chooses peanut
+In the file, we have ddi
