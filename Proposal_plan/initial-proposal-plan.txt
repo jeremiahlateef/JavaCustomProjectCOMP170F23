@@ -22,6 +22,46 @@ Store the data as an array. If the user chooses peanut
 In the file, we have
 *************************************************************************************************************
 Shwetha Proposal Plan
+Project Title- "Coded Dishes"/ "Object Oriented Oven"/ "Code Flavor Fusion"/ "Programming Palate"
+
+Project Definition-
+
+Food and cuisine hold a deeply personal and significant place in our lives. What we consume not only sustains us but also mirrors our cultural heritage and individual preferences. While there exist numerous websites and applications that help users generate recipes based on available ingredients, a critical aspect often remains overlooked - the ability to tailor these recipes according to one's specific culinary inclinations. For example, when we talk about 'Asian' cuisine, it encompasses a diverse array of food from regions such as India, Korea, China, and Japan.
+
+With our project, we aim to rectify this gap by presenting a multicultural perspective. We intend to create an extensive database of dishes from Asia, Africa, and Europe. Our platform will allow users to select their preferred cuisine, accommodate any dietary restrictions or allergies they might have, and even align with their food preferences, be it vegetarian, vegan, pescatarian, or omnivore. The users will then receive customized recipes tailored to their choices.
+
+To enhance the user experience by incorporating interesting trivia and fun facts with the intention to not only explore explore the origin of these dishes but also gain valuable insights into the art of cooking.
+
+Team or Individual
+This project will be completed by a team of three individuals-
+
+
+
+
+
+
+
+Design
+
+The design will be simple, and crisp, will be user-friendly. 
+
+
+
+Schedule
+
+
+
+Testing
+
+
+
+
+
+
+
+
+
+
 
 *************************************************************************************************************
 *************************************************************************************************************
