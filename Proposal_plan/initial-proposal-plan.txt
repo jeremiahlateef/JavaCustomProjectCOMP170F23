@@ -39,8 +39,7 @@ This project will be completed by a team of three individuals-
 
 Design
 
-The user will be asked a series of questions and be prompted to choose from a series of options. For instance, the user will be asked to choose from four regional nationalities: Asian, African, European, and Caribbean. Each region will be represented by A, B, C, and D. The user will have to choose an option within the specified ones to continue. In similar manner, the user will be prompted with three more questions. The responses will determine the dishes that will be offered to them.
-There will be a JSON file that stores the dishes in the file. The input from the users will be used to query the JSON file to return dishes that aligns with the user's choices..
+
 
 
 
