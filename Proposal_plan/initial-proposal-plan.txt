@@ -47,11 +47,12 @@ Schedule
 
 
  
-Testing: We'll test the program as a group by performing comprehensive testing, which includes unit testing, integration testing that
-ensures security and data integrity are well coded or performed. we'll again deploy the application to a production setting,where each person serving as user will provide eesential ideas and guides for using the system to test the code to check errors which include syntax and other java mistakes the toolset points out.
+Testing: 
 
-The user will be prompted to answer a predefined set of questions that can only receive one out of four unique options. The user input will be accessed on its appropriateness to the question posed to them. 
-An error will be thrown if the user provides an incompatible answer. The user will be prompted to provide another response if their earlier input does not meet certain conditions.
+We will test the program as a group by performing comprehensive testing, which includes unit testing, integration testing that
+ensures security and data integrity are well coded or performed. We will again deploy the application to a production setting,where each person serving as user will provide eesential ideas and guides for using the system to test the code to check errors which include syntax and other Java mistakes the toolset points out.
+
+The user will be prompted to answer a pre-defined set of questions that can only receive one out of four unique options. The user input will be accessed on its appropriateness to the question posed to them. An error will be thrown if the user provides an incompatible answer. The user will be prompted to provide another response if their earlier input does not meet certain conditions.
 
 
 
