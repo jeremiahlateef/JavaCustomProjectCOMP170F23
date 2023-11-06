@@ -22,7 +22,7 @@ Store the data as an array. If the user chooses peanut
 In the file, we have
 *************************************************************************************************************
 Shwetha Proposal Plan
-Project Title- "Coded Dishes"/ "Object Oriented Oven"/ "Code Flavor Fusion"/ "Programming Palate"
+Project Title- "Coded Dishes"/ "Object Oriented Oven"/ "Code Flavor Fusion"/ "Programming Palate" / "Culinary Explorer"
 
 Project Definition-
 
