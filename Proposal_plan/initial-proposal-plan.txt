@@ -22,7 +22,7 @@ Store the data as an array. If the user chooses peanut
 In the file, we have
 *************************************************************************************************************
 Team Proposal Plan
-Project Title- "Coded Dishes"/ "Object Oriented Oven"/ "Code Flavor Fusion"/ "Programming Palate" / "Culinary Explorer"/"Multicultural Munchies"/"Multicultural Menu"
+Project Title- Multicultural Menu
 
 Project Definition-
 
@@ -33,14 +33,12 @@ With our project, we aim to rectify this gap by presenting a multicultural persp
 To enhance the user experience by incorporating interesting trivia and fun facts with the intention to not only explore explore the origin of these dishes but also gain valuable insights into the art of cooking.
 
 Team or Individual
-This project will be completed by a team of three individuals-
-
-
+This project will be built by a team of three individuals- Alberta Ayitey, Jeremiah Lateef, Shwetha Vaidyanathan.
 
 Design
 
-The user will be asked a series of questions and be prompted to choose from a series of options. For instance, the user will be asked to choose from four regional nationalities: Asian, African, European, and Caribbean. Each region will be represented by A, B, C, and D. The user will have to choose an option within the specified ones to continue. In similar manner, the user will be prompted with three more questions. The responses will determine the dishes that will be offered to them.
-There will be a JSON file that stores the dishes in the file. The input from the users will be used to query the JSON file to return dishes that aligns with the user's choices..
+The user will be asked a series of questions and be prompted to choose from a series of options. For instance, the user will be asked to choose from four regional nationalities: Asian, African, European, and Caribbean. Each region will be represented by A, B, C, and D. The user will have to choose an option within the specified categories to proceed to the next question. In similar manner, the user will be prompted with at least two questions. These responses will determine the dishes that will be presented to them.
+There will be a JSON file that stores the data of all the dishes. The input from the users will be used to query the JSON file to return dishes that aligns with the user's choices. There will be a focus on user friendly design with clear presentations.
 
 
 
@@ -48,41 +46,39 @@ Schedule:
 
 Week 10: Project Mapping
 
-We started off by figuring out what the best topic, and how our project would be. We debated on a few ideas; one was a personal inventory management
-application, and the other was the one we had finalized. Both of our ideas had the same concept to get user's input and then to provide them 
-with the required data. As we discussed, we realized that we wanted to give our project a multicultural focus, and wanted our efforts to work towards that goal. We, then worked on the flow of the project understanding user's specifications and the creator's perspectives.
+We started off by figuring out the best topic and structure of our project. We debated on a few ideas; one was a personal inventory management application, and the other was the one we had finalized. Both of our ideas had the same concept to get user's input and then to provide them with the required data. As we discussed, we realized that we wanted to give our project a multicultural focus. We then worked out the flow of the project understanding user's perspectives and the methodology to achieve it. We also created a GitHub repository to manage the project.
 
 
-Week 11:
+Week 11: Code Implementation
 
-We will divide up and collect the recipe data for the three different cuisines which are; African, Asian, and European. 
-We will ensure that we will create the databases such that it can work seamlessly with the set parameters of allergies, cuisines,
-and preferences. We will give attention to creating the wireframe of the project, so that we can gear up for conducting 
-the test trials over the upcoming weeks. We will start the initial coding process. 
+We will divide up and collect the recipe data for the different cuisines which are; African, Asian, Caribbean, and European. We will ensure that we will create the database that can work seamlessly with a specified set of parameters. We will create the wireframe of the project, so that we can gear up for conducting the test trials over the upcoming weeks. We will draft our inital code for the program.
 
-Week 12:
+Week 12: Review and Research
 
-We will continue the coding process, while also implementing all the design elements as decided by our wire frame. We will then
-attempt to link the various databases with the help of JSON to our original file. We will continue to monitor the code making changes as required through github. We will also work closely with faculty, and TA's to get our queries resolved, and then lay the groundwork for the weeks ahead.
+We will continue the coding process, while also implementing all the design elements based on our wireframe. We will then
+attempt to link the JSON file to the input of the users. We will document our changes on GitHub. We will also work closely with faculty, and TA's to get our queries resolved.
 
-Week 13:
+Week 13: Feedback and Corrections
 
-We will have the basic elements of the program sorted by this time. We will now dwell on ensuring that all the databases will work together so that the user can get their output. By this time, our various databases would be linked and have the neccessary elements to work together with the main program. We will also begin testing the program with family and friends to get their feedback and ideas in terms of design, and structure in our decision. 
+We will have the basic elements of the program sorted by this time. We will now dwell on ensuring that all the data will interact with the JSON file to produce the necessary output. We will also begin testing the program with family and friends to get their feedback and ideas in terms of design, and structure in our decision. 
 
-Week 14:
+Week 14: Completion of Project
 
-We will work on the bugs in the program, and continue testing it with family and friends. We will be taking the final round of feedback to make changes to the design elements. We will then finalize the program making it ready for presentation.
+We will work on the bugs in the program, and continue testing it with family and friends. We will be taking the final round of feedback to make changes to the design elements. We will then finalize the program and make it ready for presentation.
 
 
  
 Testing: 
 
-We will test the program as a group by performing comprehensive testing, which includes unit testing, integration testing that
-ensures security and data integrity are well coded or performed. We will again deploy the application to a production setting,where each person serving as user will provide essential ideas and guides for using the system to test the code to check errors which include syntax and other Java mistakes the toolset points out.
+We will test the program as a group by performing comprehensive testing. We will deploy the application to a production setting, and ask some users to use the program. Each user will provide essential feedback on the usability and accessibility. We will use the feedback to improve the syntax, and correct errors if required. 
 
-The user will be prompted to answer a pre-defined set of questions that can only receive one out of four unique options. The user input will be accessed on its appropriateness to the question posed to them. An error will be thrown if the user provides an incompatible answer. The user will be prompted to provide another response if their earlier input does not meet certain conditions.
+The user will be prompted to answer a pre-defined set of questions that can only receive a single, unique response. The user input will be accessed on its appropriateness. An error will be thrown if the user provides an incompatible answer. The user will be prompted to provide another response if their earlier input does not meet the conditions.
 
-The data for the culinary dishes will be stored in a JSON file. We will ensure the data in the data file can be accessed in the main program after certain conditions are met. 
+The data for the culinary dishes will be stored in a JSON file. We will ensure the data in the data file can be accessed in the main program after meeting certain conditions. 
+
+
+
+
 
 
 
