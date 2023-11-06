@@ -21,14 +21,14 @@ Programmer perspective
 Store the data as an array. If the user chooses peanut
 In the file, we have
 *************************************************************************************************************
-Shwetha Proposal Plan
-Project Title- "Coded Dishes"/ "Object Oriented Oven"/ "Code Flavor Fusion"/ "Programming Palate" / "Culinary Explorer"
+Team Proposal Plan
+Project Title- "Coded Dishes"/ "Object Oriented Oven"/ "Code Flavor Fusion"/ "Programming Palate" / "Culinary Explorer"/"Multicultural Munchies"/"Multicultural Menu"
 
 Project Definition-
 
 Food and cuisine hold a deeply personal and significant place in our lives. What we consume not only sustains us but also mirrors our cultural heritage and individual preferences. While there exist numerous websites and applications that help users generate recipes based on available ingredients, a critical aspect often remains overlooked - the ability to tailor these recipes according to one's specific culinary inclinations. For example, when we talk about 'Asian' cuisine, it encompasses a diverse array of food from regions such as India, Korea, China, and Japan.
 
-With our project, we aim to rectify this gap by presenting a multicultural perspective. We intend to create an extensive database of dishes from Asia, Africa, and Europe. Our platform will allow users to select their preferred cuisine, accommodate any dietary restrictions or allergies they might have, and even align with their food preferences, be it vegetarian, vegan, pescatarian, or omnivore. The users will then receive customized recipes tailored to their choices.
+With our project, we aim to rectify this gap by presenting a multicultural perspective. We intend to create a database of dishes from Asia, Africa, and Europe. Our platform will allow users to select their preferred cuisine, accommodate any dietary restrictions or allergies they might have, and even align with their food preferences, be it vegetarian, vegan, pescatarian, or omnivore. The users will then receive customized recipes tailored to their choices.
 
 To enhance the user experience by incorporating interesting trivia and fun facts with the intention to not only explore explore the origin of these dishes but also gain valuable insights into the art of cooking.
 
@@ -44,7 +44,34 @@ There will be a JSON file that stores the dishes in the file. The input from the
 
 
 
-Schedule
+Schedule:
+
+Week 10: Project Mapping
+
+We started off by figuring out what the best topic, and how our project would be. We debated on a few ideas; one was a personal inventory management
+application, and the other was the one we had finalized. Both of our ideas had the same concept to get user's input and then to provide them 
+with the required data. As we discussed, we realized that we wanted to give our project a multicultural focus, and wanted our efforts to work towards that goal. We, then worked on the flow of the project understanding user's specifications and the creator's perspectives.
+
+
+Week 11:
+
+We will divide up and collect the recipe data for the three different cuisines which are; African, Asian, and European. 
+We will ensure that we will create the databases such that it can work seamlessly with the set parameters of allergies, cuisines,
+and preferences. We will give attention to creating the wireframe of the project, so that we can gear up for conducting 
+the test trials over the upcoming weeks. We will start the initial coding process. 
+
+Week 12:
+
+We will continue the coding process, while also implementing all the design elements as decided by our wire frame. We will then
+attempt to link the various databases with the help of JSON to our original file. We will continue to monitor the code making changes as required through github. We will also work closely with faculty, and TA's to get our queries resolved, and then lay the groundwork for the weeks ahead.
+
+Week 13:
+
+We will have the basic elements of the program sorted by this time. We will now dwell on ensuring that all the databases will work together so that the user can get their output. By this time, our various databases would be linked and have the neccessary elements to work together with the main program. We will also begin testing the program with family and friends to get their feedback and ideas in terms of design, and structure in our decision. 
+
+Week 14:
+
+We will work on the bugs in the program, and continue testing it with family and friends. We will be taking the final round of feedback to make changes to the design elements. We will then finalize the program making it ready for presentation.
 
 
  
