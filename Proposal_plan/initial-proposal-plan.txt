@@ -4,8 +4,8 @@ User Perspective
 1.	A user opens the site
 2.	Then the user is welcomed with a statement: The statement welcomes the user and states the mission of the project. 
 3.	The user is asked a series of questions.
-4.	The user input their answer to each question
-5.	The user answers will result in a tailored response that is suits their taste. 
+4.	The user inputs their answer to each question
+5.	The user answers will result in a tailored response that suits their taste. 
 
 Programmer perspective
 1.	We write a statement that welcomes the user and informs them of the objective of the site. (print statement)
