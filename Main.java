@@ -29,8 +29,6 @@ System.out.println("Hi! Welcome to Multicultural Menu!!");
 System.out.print("Type your name: ");
   String name= console.nextLine();
   System.out.println("Thanks" + name + "answer these three questions to get your personalised recipe list.");
-  System.out.println(name + " !. You have excellent taste, give us some time while we cook up your recipe selections.");
-  System.out.println("Thanks for exploring cuisines across the world! Happy Cooking."); 
 }
 
 public static String cuisine(String responseOne) {
@@ -76,5 +74,12 @@ public static String preference(String responseThree) {
 return responseThree;
 }
 //create a method that will
+
+public static void main goodbyestatement(){
+
+  System.out.println(name + " !. You have excellent taste, give us some time while we cook up your recipe selections.");
+  System.out.println("Thanks for exploring cuisines across the world! Happy Cooking."); 
+}
+
 
 }
