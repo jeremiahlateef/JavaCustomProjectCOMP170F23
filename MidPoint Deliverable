@@ -13,7 +13,7 @@ There haven't been any major changes in the project as of yet, we are committed 
 The program will contain various methods which will have the data to display content. First, is the 'Welcome Message', which will get the users acclimatized to the various parts of the program. Second, is the three-question quiz which will take information from the user to display the results. Each of the quiz elements, also has a seperate method, which will be retrieved from various text files as named after them. JSON objects and arrays are one of the crucial aspects of the program which will hold all the information we have gathered and parse through the content 
 
 3.	What are the key pieces of data your program will use? How will you define the variables and types needed?  You can include in the same .java file or list separately.
-We have decided to display our database seperately, we have done this for two reasons- as we have mentioned 
+We have decided to display our database seperately, we have done this for two reasons- as we have mentioned that we are drawing from recipes from various parts of the world so we have created an excel sheet with all the data. In this excel seet, the data has been divided based on the location, and then insde each tab is the recipe descibed with the location, allergens, and how it can fit a person's dietary preference. 
 
 
 
