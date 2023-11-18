@@ -24,16 +24,16 @@ System.out.println(responseOne);
 
 public static void welcomeStatement() {
 System.out.println("Hi! Welcome to Multicultural Menu!!");
-  System.out.println("We have curated over    recipes for you to enjoy.");
+  System.out.println("We have curated recipes from various parts of the world for you to enjoy.");
   System.out.println("Take this short quiz, and let's go on an exciting culinary journey.");
 System.out.print("Type your name: ");
   String name= console.nextLine();
-  System.out.println("Thanks" + name + "answer these three questions to get recipes from all over the world.");
+  System.out.println("Thanks" + name + "answer these three questions to get your personalised recipe list.");
   System.out.println("There are so many places to choose from. We have narrowed it down to four choices. Click on the location of your choice.");
   System.out.println("A. Africa");
   System.out.println("B. Asia");
   System.out.println("C. Carribean");
-  System.out.println("D. European");
+  System.out.println("D. Europe");
   String continent= console.nextLine();
   System.out.println("Do you have any allergies. If yes, pick one from the options if none, pick the last option.");
   System.out.println("A. Dairy");
@@ -46,13 +46,7 @@ System.out.print("Type your name: ");
   System.out.println("B. Non-vegan");
   String preference= console.nextLine();
   System.out.println(name + " !. You have excellent taste, give us some time while we cook up your recipe selections.");
-  System.out.println("Thanks for your patience! Here are your recipes."); 
-}
-  
-  
-  
-  
-
+  System.out.println("Thanks for exploring cuisines across the world! Happy Cooking."); 
 }
 
 public static String nationality(String responseOne) {
