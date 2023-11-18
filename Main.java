@@ -23,8 +23,35 @@ System.out.println(responseOne);
 }
 
 public static void welcomeStatement() {
-System.out.println("Hi! Welcome to our ...");
-System.out.print("Please tell us your first name: ");
+System.out.println("Hi! Welcome to Multicultural Menu!!");
+  System.out.println("We have curated over    recipes for you to enjoy.");
+  System.out.println("Take this short quiz, and let's go on an exciting culinary journey.");
+System.out.print("Type your name: ");
+  String name= console.nextLine();
+  System.out.println("Thanks" + name + "answer these three questions to get recipes from all over the world.");
+  System.out.println("There are so many places to choose from. We have narrowed it down to four choices. Click on the location of your choice.");
+  System.out.println("A. Africa");
+  System.out.println("B. Asia");
+  System.out.println("C. Carribean");
+  System.out.println("D. European");
+  String continent= console.nextLine();
+  System.out.println("Do you have any allergies. If yes, pick one from the options if none, pick the last option.");
+  System.out.println("A. Dairy");
+  System.out.println("B. Nuts - Pinenuts, Peanuts, Walnuts, Cashwenuts, Hazelnuts");
+  System.out.println("C. Seafood- including shellfish");
+  System.out.println("No Allergies");
+  String allergies= console.nextLine();
+  System.out.println("Last Question! Do you have any particular dietary preferences?");
+  System.out.println("A. Vegan");
+  System.out.println("B. Non-vegan");
+  String preference= console.nextLine();
+  System.out.println(name + " !. You have excellent taste, give us some time while we cook up your recipe selections.");
+  System.out.println("Thanks for your patience! Here are your recipes."); 
+}
+  
+  
+  
+  
 
 }
 
