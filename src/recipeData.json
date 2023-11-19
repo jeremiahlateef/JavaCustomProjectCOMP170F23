@@ -1,0 +1,104 @@
+{
+  "European": {
+    "continent": "European",
+
+    "meal": [
+      {
+        "vegan": false,
+        "allergies": [
+          {
+            "nuts": ["Fruit Tart (England)", "Ketchup (France)"],
+            "dairy": ["mildkf", "dkgkg"],
+            "seafood": ["dkfjdkfgd", "djghjg"],
+            "none": ["djfhdjf", "djfdhjf"]
+          }
+        ]
+      },
+      {
+        "vegan": true,
+        "allergies": [
+          {
+            "peanuts": ["djfhdjfhdj", "djfhdjd"],
+            "none": ["djfdjfhdf", "djfhdjhfd"]
+          }
+        ]
+      }
+    ]
+  },
+
+  "African": {
+    "continent": "African",
+    "meal": [
+      {
+        "vegan": false,
+        "allergies": [
+          {
+            "peanuts": ["lorempa"],
+            "dairy": ["loremda"],
+            "seafood": ["loremsa"],
+            "none": ["loremna"]
+          }
+        ]
+      },
+      {
+        "vegan": true,
+        "allergies": [
+          {
+            "peanuts": ["djfhdjd"],
+            "none": ["djfdhjf"]
+          }
+        ]
+      }
+    ]
+  },
+  "Asian": {
+    "continent": "Asian",
+    "meal": [
+      {
+        "vegan": false,
+        "allergies": [
+          {
+            "peanuts": [],
+            "dairy": [],
+            "seafood": [],
+            "none": []
+          }
+        ]
+      },
+      {
+        "vegan": true,
+        "allergies": [
+          {
+            "peanuts": [],
+            "none": []
+          }
+        ]
+      }
+    ]
+  },
+  "Caribbean": {
+    "continent": "Caribbean",
+    "meal": [
+      {
+        "vegan": false,
+        "allergies": [
+          {
+            "peanuts": [],
+            "dairy": [],
+            "seafood": [],
+            "none": []
+          }
+        ]
+      },
+      {
+        "vegan": true,
+        "allergies": [
+          {
+            "peanuts": [],
+            "none": []
+          }
+        ]
+      }
+    ]
+  }
+}
