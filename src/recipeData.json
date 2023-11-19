@@ -7,10 +7,10 @@
         "vegan": false,
         "allergies": [
           {
-            "nuts": ["Fruit Tart (England)", "Ketchup (France)"],
-            "dairy": ["mildkf", "dkgkg"],
-            "seafood": ["dkfjdkfgd", "djghjg"],
-            "none": ["djfhdjf", "djfdhjf"]
+            "nuts": ["Ajo Blanco (Spain)"],
+            "dairy": ["Spanakopita (Greece)", "Risotto (Italy)", "Medovik Cake(Russia)", "Pulla Bread(Finland)", "Punsch-Rolls(Sweden)"],
+            "seafood": ["Paella (Spain)", "Fish and Chips (United Kingdom)", "Pastitsio(Greece)" ],
+            "none": ["Osso Buco (Spain)", "Goulash (Hungary)", "Sarmale (Romania)", "Sauerbraten (Germany)" ]
           }
         ]
       },
@@ -18,8 +18,8 @@
         "vegan": true,
         "allergies": [
           {
-            "nuts": ["djfhdjfhdj", "djfhdjd"],
-            "none": ["djfdjfhdf", "djfhdjhfd"]
+            "nuts": ["Muhammara (Turkey)"],
+            "none": ["Ratatouille (France)", "Solyanka(Russia)", "Bruschetta(Italy)","Pogača(Turkey)", "Shalgam Qovurma (Azerbaijan)", "Kutia (Ukraine)" ]
           }
         ]
       }
