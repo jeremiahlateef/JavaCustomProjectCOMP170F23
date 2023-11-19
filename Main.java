@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-   public static void main(String[] args) {
+   public static void main(String[] args) throws FileNotFoundException {
       // import Scanner that will be used to requests user input
       Scanner console = new Scanner(System.in);
       welcomeStatement();
@@ -21,18 +21,26 @@ public class Main {
 
    }
 
-   public static void welcomeStatement() throws FileNotFoundException {
-      Scanner170 input = new Scanner170(new File(welcomemessage.txt));
+   public static void welcomeStatement()  {
+      Scanner170 input = new Scanner170(new File("./welcomeMessage.txt"));
       String name = console.nextLine();
       System.out.println("Thanks" + name + "answer these three questions to get your personalised recipe list.");
    }
 
-   public static String cuisine(String responseOne) throws FileNotFoundException {
-      Scanner170 input = new Scanner170(new File(cuisine.txt));
+   public static String cuisine(String responseOne) {
+      Scanner170 input = new Scanner170(new File("./cuisine.txt"));
       String continent = console.nextLine();
-      ;
-      String answer = console.next();
-      answer = answer.toUpperCase();
+      
+      char answer = console.next();
+      answer = answer.toUpperCase(); //convert each answer to uppercase
+
+      if(answer.hasNext()){//check if there is a response
+         for(int i = 0 )
+      }else{
+         
+         System.out.print("Please provide a response" + answer);
+      }
+
       /*
        * if (answer.equals("A")) {
        * System.out.println("correct");
@@ -45,24 +53,30 @@ public class Main {
    }
 
    // create a method for allergies
-   public static String allergies(String responseTwo) throws FileNotFoundException {
-      Scanner170 input = new Scanner170(new File(allergies.txt));
+   public static String allergies(String responseTwo) {
+      Scanner170 input = new Scanner170(new File("./allergies.txt"));
       String allergies = console.nextLine();
       return responseTwo;
    }
 
    // create a method for dietary preference
-   public static String preference(String responseThree) throws FileNotFoundException {
-      Scanner170 input = new Scanner170(new File(preference.txt));
+   public static String preference(String responseThree) {
+       Scanner170 input = new Scanner170(new File("./preference.txt"));
       String preference = console.nextLine();
       return responseThree;
    }
    // create a method that will report the goodbye statement
 
-public static void goodbyestatement() throws FileNotFoundException {
-Scanner170 input = new Scanner170(new File(goodbyestatement.txt));
-}
-
-}
-  
-
+   public static void goodbyestatement() {
+      Scanner170 input = new Scanner170(new File("./goodbyeStatement.txt"));
+   }
+ 
+ }
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
