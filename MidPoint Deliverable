@@ -15,7 +15,4 @@ The program will contain various methods which will have the data to display con
 3.	What are the key pieces of data your program will use? How will you define the variables and types needed?  You can include in the same .java file or list separately.
 We have decided to display our database seperately, we have done this for two reasons- as we have mentioned that we are drawing from recipes from various parts of the world so we have created an excel sheet with all the data. In this excel seet, the data has been divided based on the location, and then insde each tab is the recipe descibed with the location, allergens, and how it can fit a person's dietary preference. 
 
-
-
-
 4.	Questions or problems you are facing right?
