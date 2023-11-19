@@ -20,13 +20,6 @@ public class Main {
 
       // create the main method that will process all the responses and data.
 
-      // Add the JSON data and read it.
-      String jsonString = "./recipeData.json";
-      JSONObject obj = new JSONObject(jsonString);
-      JSONArray arr = obj.getJSONObject(0);
-
-
-
    }
 
    public static void welcomeStatement() {
