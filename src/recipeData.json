@@ -33,10 +33,10 @@
         "vegan": false,
         "allergies": [
           {
-            "nuts": ["lorempa"],
-            "dairy": ["loremda"],
-            "seafood": ["loremsa"],
-            "none": ["loremna"]
+            "nuts": ["Dabo kolo (Ethiopia)", "Tagine (Morocco)"],
+            "dairy": ["Brukina (Ghana)", "Chin chin (Nigeria)","Mulah (Sudan)","Malva Pudding (South Africa)", "Koshari (Egypt)"],
+            "seafood": ["Rolex (Uganda)", "Shrimp Skewers (Burkina Faso)", "Ravitoto (Madagascar)" ],
+            "none": ["Mandazi/Kachumbari (Kenya)", "Fatayer (Sudan)","Alloco (Ivory Coast)", "Biltong/Boerewors Rolls (South Africa)","Tagine (Morocco)"]
           }
         ]
       },
@@ -44,8 +44,8 @@
         "vegan": true,
         "allergies": [
           {
-            "nuts": ["djfhdjd"],
-            "none": ["djfdhjf"]
+            "nuts": ["Briwat (Algeria)", "Ndole (Cameroon)"],
+            "none": ["Sweet filling (Uganda)","Coconut Sweet (Mozambique)"]
           }
         ]
       }
