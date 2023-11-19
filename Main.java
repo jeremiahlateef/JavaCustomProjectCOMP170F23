@@ -59,14 +59,10 @@ public class Main {
    }
    // create a method that will report the goodbye statement
 
-public static void main
-
-   goodbyestatement() throws FileNotFoundException {
+public static void goodbyestatement() throws FileNotFoundException {
 Scanner170 input = new Scanner170(new File(goodbyestatement.txt));
 }
 
 }
-  * 
-  * 
   
 
