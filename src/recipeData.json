@@ -58,19 +58,19 @@
         "vegan": false,
         "allergies": [
           {
-            "nuts": [],
-            "dairy": [],
-            "seafood": [],
-            "none": []
+            "nuts": ["Cashew Chicken Stir Fry (Thailand)"],
+            "dairy": ["Chicken Tikka Masala (India)","Mutton Fry (India)", "Purin Dora (Japan)", "Curry Rice (Japan)", "Taro Sago (China)" ],
+            "seafood": ["Chanko Nabe (Japan)","Meen Pollichathu (India)","Norimaki (Japan)", "Sweet Sour Salmon(China)","Shumai (China)"],
+            "none": ["Kottu Roti (Sri Lanka)", "Adobo (Philippines)", "Samsaek Sandwich (South Korea)", "Gimbap (South Korea)", "Spring Rolls (China)", "Miso Ramen (Japan)" ]
           }
-        ]
+        ] 
       },
       {
         "vegan": true,
         "allergies": [
           {
-            "nuts": [],
-            "none": []
+            "nuts": ["Motichoor Ladoo (India)", "Danpatjuk (South Korea)" ],
+            "none": ["Aloo Tikki(India)", "Pani Puri(India)", "Mugen Nasu (Japan)", "Nishime (Japan)","Shanghai Scallion Flatbread(China)", "Yachaejeon (South Korea)" ]
           }
         ]
       }
