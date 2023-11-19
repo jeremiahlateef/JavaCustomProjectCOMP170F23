@@ -18,7 +18,7 @@
         "vegan": true,
         "allergies": [
           {
-            "peanuts": ["djfhdjfhdj", "djfhdjd"],
+            "nuts": ["djfhdjfhdj", "djfhdjd"],
             "none": ["djfdjfhdf", "djfhdjhfd"]
           }
         ]
@@ -33,7 +33,7 @@
         "vegan": false,
         "allergies": [
           {
-            "peanuts": ["lorempa"],
+            "nuts": ["lorempa"],
             "dairy": ["loremda"],
             "seafood": ["loremsa"],
             "none": ["loremna"]
@@ -44,7 +44,7 @@
         "vegan": true,
         "allergies": [
           {
-            "peanuts": ["djfhdjd"],
+            "nuts": ["djfhdjd"],
             "none": ["djfdhjf"]
           }
         ]
@@ -58,7 +58,7 @@
         "vegan": false,
         "allergies": [
           {
-            "peanuts": [],
+            "nuts": [],
             "dairy": [],
             "seafood": [],
             "none": []
@@ -69,7 +69,7 @@
         "vegan": true,
         "allergies": [
           {
-            "peanuts": [],
+            "nuts": [],
             "none": []
           }
         ]
@@ -83,7 +83,7 @@
         "vegan": false,
         "allergies": [
           {
-            "peanuts": [],
+            "nuts": [],
             "dairy": [],
             "seafood": [],
             "none": []
@@ -94,7 +94,7 @@
         "vegan": true,
         "allergies": [
           {
-            "peanuts": [],
+            "nuts": [],
             "none": []
           }
         ]
