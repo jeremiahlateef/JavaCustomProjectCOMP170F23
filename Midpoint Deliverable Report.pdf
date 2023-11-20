@@ -1,0 +1,18 @@
+Project Report- Midpoint Deliverable
+Project Name- Multicultural Menu
+Team Members- Alberta Ayitey, Jeremiah Lateef, and Shwetha Vaidyanathan
+Attachments- Recipe Database, Outline of the Main Program, JSON File(with the information added from the database).
+
+The project has been shaping up over the last few weeks as we came up with the idea. As stated in our outline, our concern is to make the program interactive, and also display accurate information to the users. We have been working to get to connect the elements in the database to the program through various ways.
+
+1.	Changes in project requirements – things dropped or added (if no changes, say so).
+There haven't been any major changes in the project as of yet, we are committed to continue the same format as we had outlined in the project proposal. We have streamlined the various preferences- and also arranged the various data types in order since the draft of the program has been made. 
+
+2.	Overall structure of the program. What are the methods that will do most of the work?  
+The program will contain various methods which will have the data to display content. All the methods involved in the program will clearly define to the user on how to interact with the program. We are adding some explanation for the  first, which is the 'Welcome Message', which will get the users acclimatized to the various parts of the program. Second, is the three-question quiz which will take information from the user to display the results. Each of the three quiz elements, also has a seperate method, which will be retrieved from various text files as named after them. JSON objects and arrays are one of the crucial aspects of the program which will hold all the information we have gathered and parse through the content. The last one is the 'Goodbye Statement' thanking the user for their interaction with the program. 
+
+3.	What are the key pieces of data your program will use? How will you define the variables and types needed?  You can include in the same .java file or list separately.
+We have decided to display our database seperately, we have done this for two reasons- as we have mentioned that we are drawing from recipes from various parts of the world so we have created an excel sheet with all the data. In this excel seet, the data has been divided based on the location, and then insde each tab is the recipe descibed with the location, allergens, and how it can fit a person's dietary preference. 
+
+4.	Questions or problems you are facing right?
+We are trying to read the JSON file, and it has been difficult to get the data using an object mapper. The other one, is that we want to create a check to ensure that the users give responses which are in compliant with the parameters we have defined. 
