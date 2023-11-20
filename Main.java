@@ -1,7 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class Main {
+public class MulticulturalMenu {
     public static void main(String[] args) throws FileNotFoundException {
         // import Scanner that will be used to requests user input
         Scanner170 console = new Scanner170(System.in);
