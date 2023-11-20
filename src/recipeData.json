@@ -84,9 +84,9 @@
         "allergies": [
           {
             "nuts": [],
-            "dairy": [],
-            "seafood": [],
-            "none": []
+            "dairy": ["Cheese Rolls (Guyana)","Coconut Rum Cake (Caribbean)",],
+            "seafood": ["Pepperpot (Antigua)", "Ropa Vieja (Cuba)", "Callaloo Soup (Dominican)", "Oil Down (Grenada)", "Griot (Haiti)", "Saltfish and Dumplings (Saint Kitts and Nevis)"],
+            "none": ["Mofongo (Dominican Republic)", "Tostones (Cuba)", "Bahamian Rock (Bahamas)", "Fungee (Antigua and Barbuda)", "Accra (Saint Lucia)"]
           }
         ]
       },
@@ -94,8 +94,8 @@
         "vegan": true,
         "allergies": [
           {
-            "nuts": [],
-            "none": []
+            "nuts": ["Channa and Aloo (Chickpea and Potato) with Peanuts (Trinidad and Tobago)","Fruit Salad with Toasted Coconut and Macadamia Nuts (Caribbean)"],
+            "none": ["Stewed Conch (Saint Kitts and Nevis)","Jamaican Patty (Jamaica)","Nutmeg Ice Cream (Grenada)" ]
           }
         ]
       }
