@@ -104,10 +104,18 @@ public class Main {
     }
 
     public static void welcomeStatement(Scanner170 console) throws FileNotFoundException {
-        Scanner170 input = new Scanner170(new File("./welcomeMessage.txt"));
-        System.out.println(input);
+    Scanner170 input = new Scanner170(new File("./welcomeMessage.txt"));
+        File newFile = CheckIO.findFile("./welcomeMessage.txt");
+
+        if (newFile.exists()) {
+            while (input.hasNext()) {
+                System.out.println(input.nextLine());
+            }
+        } else {
+            System.out.print("file not found");
+        }
         String name = console.nextLine();
-        System.out.println("Thanks" + name + "answer these three questions to get your personalised recipe list.");
+        System.out.println("Thanks " + name + " answer these three questions to get your personalised recipe list.");
     }
 
     public static String cuisine(String responseOne, Scanner170 console) throws FileNotFoundException {
