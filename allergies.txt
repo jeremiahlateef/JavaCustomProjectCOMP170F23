@@ -1,5 +1,5 @@
 Do you have any allergies. If yes, pick one from the options if none, pick the last option.
 A. Dairy
-B. Nuts - Pinenuts, Peanuts, Walnuts, Cashewnuts, Hazelnuts
-C. Seafood- including shellfish
-D. No Allergies
+B. Nuts 
+C. Seafood
+D. None
