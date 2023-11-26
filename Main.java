@@ -78,7 +78,7 @@ public class Main {
         
         // import Scanner that will be used to requests user input
         Scanner170 console = new Scanner170(System.in);
-        welcomeStatement(console);
+        //welcomeStatement(console);
         // Store the username of the user and call it when necessary.
         String username = console.next();
         // Store all the responses in a variable
@@ -88,15 +88,19 @@ public class Main {
         // Create methods for each category.
         // Add method that will store the value of each category
 
-        cuisine(responseOne, console);
-        allergies(responseTwo, console);
-        preference(responseThree, console);
+        cuisine(console);
+        allergies(console);
+        preference(console);
+
+        //
+        // System.out.println("hi");
+
 
         // create the main method that will process all the responses and data.
-        userResponses(responseOne, responseTwo, responseThree);
+        //userResponses(responseOne, responseTwo, responseThree);
 
         //Print a goodbye message
-        goodbyeStatement();
+        // goodbyeStatement();
     }
 
     public static void welcomeStatement(Scanner170 console) throws FileNotFoundException {
