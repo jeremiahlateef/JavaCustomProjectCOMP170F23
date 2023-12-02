@@ -14,18 +14,18 @@ import org.json.simple.parser.*;
 public class Main {
     public static void main(String[] args) throws FileNotFoundException, Exception {
 
-        // import Scanner that will be used to requests user input
+        // import the Scanner object that will be used to request user input
         Scanner170 console = new Scanner170(System.in);
 
         welcomeStatement(console);
         // Store the username of the user and call it when necessary.
 
         // String username = console.next();
-        // Store all the responses in a variable
+        // Store all the responses these variable
         String responseOne = cuisine(console);
         String responseTwo = allergies(console);
         boolean responseThree = preference(console);
-        //Print a goodbye message
+        //Print a goodbye message to the user
         goodbyeStatement();
 //        System.out.println(responseOne);
 //        System.out.println(responseTwo);
@@ -53,7 +53,7 @@ public class Main {
         // Create a JSON Object
         JSONObject recipeObj = (JSONObject) jsonObj;
 
-        //Get European address
+        //Get the location
         Map continent = ((Map) recipeObj.get(responseOne));
 
         //Create an array and get the meal array from the continent object
@@ -62,7 +62,7 @@ public class Main {
         //create an iterator for the meal array
         Iterator<Object> mealIterator = recipeArr.iterator();
 
-        //Create a boolean variable to retrieve the vegan menu based on its truism or falsity.
+        //Create a boolean variable to retrieve items for the vegan menu.
         boolean vegan = responseThree;
         //Use a while loop to iterate through the meal Array
         while (mealIterator.hasNext()) {
@@ -124,7 +124,7 @@ public class Main {
         String name = console.nextLine();
         //If else to make sure the user types a response
         while (name.isEmpty()) {
-            System.out.println("Please type your name");
+            System.out.println("Please type your name: ");
             name = console.nextLine();
         }
         System.out.println("Thanks " + name + " answer these three questions to get your personalised recipe list.");
@@ -241,7 +241,7 @@ public class Main {
             continent = "Europe";
         }
 
-        System.out.print("Thank you for the answer. You chose " + continent + ".");
+        System.out.print("Thank you for your response. You chose " + continent + ".");
         System.out.println();
         System.out.println();
 
@@ -290,7 +290,7 @@ public class Main {
             question = "none";
         }
 
-        System.out.print("Thank you for the answer. Your allergen is " + question + ".");
+        System.out.print("Thank you for your response. Your allergy is " + question + ".");
         System.out.println();
         System.out.println();
 
@@ -338,7 +338,7 @@ public class Main {
         }
 
         //String question = console.nextLine();
-        System.out.print("Thank you for your answer. Your preference is " + question + ".");
+        System.out.print("Thank you for your response. Your preference is " + question + ".");
         System.out.println();
         System.out.println();
 
