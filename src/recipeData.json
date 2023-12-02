@@ -7,10 +7,12 @@
         "vegan": false,
         "allergies": [
           {
-            "nuts": ["Ajo Blanco (Spain)"],
-            "dairy": ["Spanakopita (Greece)", "Risotto (Italy)", "Medovik Cake(Russia)", "Pulla Bread(Finland)", "Punsch-Rolls(Sweden)"],
-            "seafood": ["Paella (Spain)", "Fish and Chips (United Kingdom)", "Pastitsio(Greece)" ],
-            "none": ["Osso Buco (Spain)", "Goulash (Hungary)", "Sarmale (Romania)", "Sauerbraten (Germany)" ]
+            "nuts": ["Appetizer-Spanakopita (Greece)", "Main-Risotto (Italy)", "Dessert-Medovik Cake(Russia)", "Dessert-Pulla Bread(Finland)", "Dessert- Punsch-Rolls(Sweden)", "Main- Paella (Spain)", "Main-Fish and Chips (United Kingdom)", "Main-Pastitsio(Greece)", "Main-Eggplant Parmesan (Italy)", "Main-Goulash (Hungary)", "Dessert-Crepes (France)", "Appetizer-Colcannon(Ireland)", "Main-Meatballs (Sweden)", "Main-Coq au Vin (France)", "Dessert-Fruit Tart (France)","Main-Osso Buco (Spain)", "Main-Cheese Fondue(Switzerland)","Main-Bigos (Hunter's Stew) (Poland)", "Appetizer-French Onion Soup (France)", "Main-Sauerbraten (Germany)", "Dessert-Apple Strudel (Austria)", "Main-Sarmale (Romania)","Main-Pitepalt (Swedish Dumplings) (Sweden)", "Dessert-Tiramisu (Italy)","Dessert-Leche Frita (Fried Milk) (Spain)",   ],
+            
+            "dairy": ["Appetizer- Ajo Blanco (Spain), "Main- Paella (Spain)", "Main-Fish and Chips (United Kingdom)", "Pastitsio(Greece)", "Main-Osso Buco (Spain)", "Goulash (Hungary)", "Sarmale (Romania)", "Sauerbraten (Germany)","Main-Goulash (Hungary)", "Main-Osso Buco (Spain)", "Main-Bigos (Hunter's Stew) (Poland)", "Main-Sauerbraten (Germany)", "Main-Sarmale (Romania)" ],
+            
+            "seafood": ["Appetizer-Spanakopita (Greece)", "Main-Risotto (Italy)", "Dessert- Medovik Cake(Russia)", "Dessert-Pulla Bread(Finland)", "Dessert-Punsch-Rolls(Sweden)", "Main-Paella (Spain)", "Main-Eggplant Parmesan (Italy)", "Main-Goulash (Hungary)", "Dessert-Crepes (France)", "Appetizer-Colcannon(Ireland)", "Main-Meatballs (Sweden)", "Main-Coq au Vin (France)", "Dessert-Fruit Tart (France)", "Main-Osso Buco (Spain)", "Main-Cheese Fondue(Switzerland)","Main-Bigos (Hunter's Stew) (Poland)", "Appetizer-French Onion Soup (France)", "Main-Sauerbraten (Germany)", "Dessert-Apple Strudel (Austria)","Main-Sarmale (Romania)", "Main-Pastitsio(Greece)","Main-Pitepalt (Swedish Dumplings) (Sweden)" ,"Dessert-Tiramisu (Italy)", "Dessert-Leche Frita (Fried Milk) (Spain)",    ],
+            "none": ["Main-Osso Buco (Spain)", "Main-Goulash (Hungary)", "Sarmale (Romania)", "Main-Sauerbraten (Germany)", "Main-Paella (Spain)", "Main-Fish and Chips (United Kingdom)", "Main-Pastitsio(Greece)", "Appetizer-Spanakopita (Greece)", "Main-Eggplant Parmesan (Italy)", "Main-Risotto (Italy)", "Dessert-Crepes (France)", "Appetizer-Colcannon(Ireland)", "Main-Meatballs (Sweden)", "Main-Coq au Vin (France)", "Dessert-Fruit Tart (France)","Main-Cheese Fondue(Switzerland)", "Main-Bigos (Hunter's Stew) (Poland)", "Appetizer-French Onion Soup (France)", "Dessert-Apple Strudel (Austria)","Main-Sarmale (Romania)","Dessert-Medovik Cake(Russia)","Dessert-Pulla Bread(Finland)", "Main-Pitepalt (Swedish Dumplings) (Sweden)", "Dessert- Punsch-Rolls(Sweden)", "Dessert-Tiramisu (Italy)", "Dessert-Leche Frita (Fried Milk) (Spain)",    ]
           }
         ]
       },
@@ -18,8 +20,8 @@
         "vegan": true,
         "allergies": [
           {
-            "nuts": ["Muhammara (Turkey)"],
-            "none": ["Ratatouille (France)", "Solyanka(Russia)", "Bruschetta(Italy)","Pogača(Turkey)", "Shalgam Qovurma (Azerbaijan)", "Kutia (Ukraine)" ]
+            "nuts": ["Main- Ratatouille (France)", "Appetizer-Patatas Bravas(Spain)","Dessert-Sticky Toffee Pudding(United Kingdom)","Appetizer-Bruschetta(Italy)","Appetizer-Pogača(Turkey)", "Main-Shalgam Qovurma (Azerbaijan)", "Main-Solyanka(Russia)", "Dessert-Kutia (Sweet Wheat Pudding) (Ukraine)", "Dessert-Rødgrød ( Red Berry Pudding)(Denmark)", "Main-Pierogi with Potato and Sauerkraut(Poland)"],
+            "none": ["Main- Ratatouille (France)", "Main-Solyanka(Russia)", "Appetizer-Bruschetta(Italy)","Appetizer-Pogača(Turkey)", "Main-Shalgam Qovurma (Azerbaijan)", "Kutia (Ukraine)", "Appetizer-Patatas Bravas(Spain)", "Dessert-Sticky Toffee Pudding(United Kingdom)","Muhammara (Turkey)","Dessert-Kutia (Sweet Wheat Pudding) (Ukraine)", "Dessert-Rødgrød ( Red Berry Pudding)(Denmark)","Main-Pierogi with Potato and Sauerkraut(Poland)" ]
           }
         ]
       }
