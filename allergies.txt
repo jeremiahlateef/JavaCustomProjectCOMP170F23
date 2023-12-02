@@ -1,4 +1,4 @@
-Do you have any allergies. If yes, pick one from the options if none, pick the last option.
+Do you have any allergies. If yes, pick one from the options give below or none if you don't have any allergies.
 A. Dairy
 B. Nuts 
 C. Seafood
