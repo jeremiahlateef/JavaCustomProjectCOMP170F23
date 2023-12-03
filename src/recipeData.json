@@ -1,8 +1,8 @@
 {
-  "European": {
-    "continent": "European",
+  "Europe": {
+    "continent": "Europe",
 
-    "meal": [
+    "menu": [
       {
         "vegan": false,
         "allergies": [
@@ -11,7 +11,7 @@
             
             "dairy": ["Appetizer- Ajo Blanco (Spain)", "Main-Paella (Spain)", "Main-Fish and Chips (United Kingdom)", "Main-Osso Buco (Spain)", "Main-Goulash (Hungary)","Main-Goulash (Hungary)", "Main-Osso Buco (Spain)", "Main-Bigos (Hunter's Stew) (Poland)", "Main-Sauerbraten (Germany)", "Main-Sarmale (Romania)" ],
             
-            "seafood": ["Appetizer-Spanakopita (Greece)", "Main-Risotto (Italy)", "Dessert- Medovik Cake(Russia)", "Dessert-Pulla Bread(Finland)", "Dessert-Punsch-Rolls(Sweden)", "Main-Paella (Spain)", "Main-Eggplant Parmesan (Italy)", "Main-Goulash (Hungary)", "Dessert-Crepes (France)", "Appetizer-Colcannon(Ireland)", "Main-Meatballs (Sweden)", "Main-Coq au Vin (France)", "Dessert-Fruit Tart (France)", "Main-Osso Buco (Spain)", "Main-Cheese Fondue(Switzerland)","Main-Bigos (Hunter's Stew) (Poland)", "Appetizer-French Onion Soup (France)", "Main-Sauerbraten (Germany)", "Dessert-Apple Strudel (Austria)","Main-Sarmale (Romania)", "Main-Pastitsio(Greece)","Main-Pitepalt (Swedish Dumplings) (Sweden)" ,"Dessert-Tiramisu (Italy)", "Dessert-Leche Frita (Fried Milk) (Spain)",    ],
+            "seafood": ["Appetizer-Spanakopita (Greece)", "Main-Risotto (Italy)", "Dessert- Medovik Cake(Russia)", "Dessert-Pulla Bread(Finland)", "Dessert-Punsch-Rolls(Sweden)", "Main-Paella (Spain)", "Main-Eggplant Parmesan (Italy)", "Main-Goulash (Hungary)", "Dessert-Crepes (France)", "Appetizer-Colcannon(Ireland)", "Main-Meatballs (Sweden)", "Main-Coq au Vin (France)", "Dessert-Fruit Tart (France)", "Main-Osso Buco (Spain)", "Main-Cheese Fondue(Switzerland)","Main-Bigos (Hunter's Stew) (Poland)", "Appetizer-French Onion Soup (France)", "Main-Sauerbraten (Germany)", "Dessert-Apple Strudel (Austria)","Main-Sarmale (Romania)", "Main-Pastitsio(Greece)","Main-Pitepalt (Swedish Dumplings) (Sweden)" ,"Dessert-Tiramisu (Italy)", "Dessert-Leche Frita (Fried Milk) (Spain)" ],
             "none": ["Main-Osso Buco (Spain)", "Main-Goulash (Hungary)", "Main-Sauerbraten (Germany)", "Main-Paella (Spain)", "Main-Fish and Chips (United Kingdom)", "Main-Pastitsio(Greece)", "Appetizer-Spanakopita (Greece)", "Main-Eggplant Parmesan (Italy)", "Main-Risotto (Italy)", "Dessert-Crepes (France)", "Appetizer-Colcannon(Ireland)", "Main-Meatballs (Sweden)", "Main-Coq au Vin (France)", "Dessert-Fruit Tart (France)","Main-Cheese Fondue(Switzerland)", "Main-Bigos (Hunter's Stew) (Poland)", "Appetizer-French Onion Soup (France)", "Dessert-Apple Strudel (Austria)","Main-Sarmale (Romania)","Dessert-Medovik Cake(Russia)","Dessert-Pulla Bread(Finland)", "Main-Pitepalt (Swedish Dumplings) (Sweden)", "Dessert- Punsch-Rolls(Sweden)", "Dessert-Tiramisu (Italy)", "Dessert-Leche Frita (Fried Milk) (Spain)",    ]
           }
         ]
@@ -28,9 +28,9 @@
     ]
   },
 
-  "African": {
-    "continent": "African",
-    "meal": [
+  "Africa": {
+    "continent": "Africa",
+    "menu": [
       {
         "vegan": false,
         "allergies": [
@@ -39,7 +39,7 @@
             
             "dairy": ["Main- Banku with okra,(Ghana)", "Dessert- Bissap(Burkina Faso)", "Appetizer- Chin chin (Nigeria)", "Koshari (Egypt)", "Main- Jollof rice (Mali)", "Main- Chambo(Malawi)", "Main- Mafe(Senegal)", "Main- brik(Tunisia)", "Dessert- samosas, mandazi(Kenya)" ]
             
-            "seafood": "Main- Pounded yam(Nigeria)", "Main- Jollof rice(Mali)", "Main- Tuwu", "Appetizer- Dambou(Niger)", "Rolex (Uganda)", "Dessert- Bissap(Burkina Faso)", "Ravitoto (Madagascar)" , "Main- Ugali(Kenya)" ]
+            "seafood": ["Main- Pounded yam(Nigeria)", "Main- Jollof rice(Mali)", "Main- Tuwu", "Appetizer- Dambou(Niger)", "Rolex (Uganda)", "Dessert- Bissap(Burkina Faso)", "Ravitoto (Madagascar)" , "Main- Ugali(Kenya)" ]
             
             "none": ["Dessert-Mandazi/Kachumbari (Kenya)", "Appetizer-Fatayer (Sudan)","Appetizer-Alloco (Ivory Coast)", "Appetizer-Biltong/Boerewors Rolls (South Africa)","Main-Tagine (Morocco)", "Dessert-Brukina (Ghana)", "Dessert-Chin chin (Nigeria)","Main-Mulah (Sudan)","Dessert-Malva Pudding (South Africa)", "Main-Koshari (Egypt)", "Main- Dabo kolo (Ethiopia)", "Appetizer- dulet, kitfo(Ethiopia)", "Appetizer zaalouk, briouats (Morocco)", "Main- Banku with okra (Ghana)" ," Appetizer- kelewele, kebabs(Ghana)", "Main- Pounded Yam (Nigeria)", "Appetizer- akara, puff puff(Nigeria)", "Main- Funje (Angola)", "Appetizer- Calulu(Angola)", "Main- Mulah (Sudan)", "Appetizer- Fatayer(Sudan)", "Main- Attieke with grilled fish (Ivory Coast)", "Appetizer- Alloco(Ivory Coast)", "Main- Doro wat(Ethiopia)", "Main- Matooke(Uganda)", "Main- Piripiri chicken(Mozambique)", "Main- Riz gras(Burkina Faso)", "Main- Ravitoto(Madagascar)", "Main- Tuwu(Niger)", "Main- Jollof rice(Mali)", "Main- Chambo(Malawi)", "Main- Mafe(Senegal)", "Main- brik(Tunisia)", " Main- Mulah (Sudan)", " Dessert-Malva Pudding (South Africa)" ]
           }
@@ -56,9 +56,9 @@
       }
     ]
   },
-  "Asian": {
-    "continent": "Asian",
-    "meal": [
+  "Asia": {
+    "continent": "Asia",
+    "menu": [
       {
         "vegan": false,
         "allergies": [
@@ -83,18 +83,18 @@
   },
   "Caribbean": {
     "continent": "Caribbean",
-    "meal": [
+    "menu": [
       {
         "vegan": false,
         "allergies": [
           {
-            "nuts": ["Main- Pepperpot(Antigua and Barbuda)", "Appetizer- Fungee(Antigua and Barbuda)", "Main- Ropa Vieja (Cuba)", "Appetizer- Tostones(Cuba)", "Main- Conch Salad(The Bahamas)" , "Appetizer-Bahamian Rock(The Bahamas)", "Main- Callaloo Soup(Dominica)", "Appetizer- Accra(Dominica)", "Main- Mangu (Dominican Republic)", "Appetizer- Mofongo (Dominican Republic)", "Main- Roasted Breadfruit Saint Vincent and the Grenadines", "Appetizer- Fried Plantains(Saint Vincent and the Grenadines)", "Main- Roti and Curry (Trinidad)", "Appetizer- Doubles(Trinidad)", "Main- Keshi Yena (Aruba)", "Appetizer- Pastechi(Aruba)",  "Main- Krioyo (Curaçao)", "Appetizer- Bitterballen(Curaçao)" ]
+            "nuts": ["Main- Pepperpot(Antigua and Barbuda)", "Appetizer- Fungee(Antigua and Barbuda)", "Main- Ropa Vieja (Cuba)", "Appetizer- Tostones(Cuba)", "Main- Conch Salad(The Bahamas)" , "Appetizer-Bahamian Rock(The Bahamas)", "Main- Callaloo Soup(Dominica)", "Appetizer- Accra(Dominica/Haiti/Saint Lucia)", "Main- Mangu (Dominica)", "Appetizer- Mofongo (Dominica)", "Main- Roasted Breadfruit Saint Vincent and the Grenadines", "Appetizer- Fried Plantains(Saint Vincent and the Grenadines)", "Main- Roti and Curry (Trinidad)", "Appetizer- Doubles(Trinidad)", "Main- Keshi Yena (Aruba)", "Appetizer- Pastechi(Aruba)",  "Main- Krioyo (Curaçao)", "Appetizer- Bitterballen(Curaçao)", "Main- Oil Down (Grenada)", "Appetizer- Stewed Conch (Saint Kitts and Nevis)", "Appetizer- Jamaican Patty(Jamaica)", "Main- Saltfish and Dumplings (Saint Kitts and Nevis)", "Appetizer- Nutmeg Ice Cream(Grenada)", "Main- Cou-Cou (Barbados)", "Appetizer- Fish Cakes(Barbados)", "Main- Griot (Haiti)",  "Main- Jerk Chicken (Jamaica)", "Main- Green fish and saltfish (Saint Lucia)", "Appetizer- Cheese Rolls (Guyana)", "Dessert- Coconut Rum Cake (Caribbean)", "Main- Curried Goat (Jamaica)"]
             
-            "dairy": [" Appetizer- Cheese Rolls (Guyana)","Dessert- Coconut Rum Cake (Caribbean)", "Main- Griot (", "Appetizer- "Accra"(Haiti) "Macadamia Nuts, "Main- "Pepperpot", "Appetizer- "Fungee" (Antigua and Barbuda)", "Main- "Cou-Cou", "Appetizer- "Fungee(Antigua and Barbuda)", "Appetizer- "Fish Cakes(Barbados)", "Main- ],
+            "dairy": [ "Main- Griot (Haiti)", , "Appetizer- Macadamia Nuts (Jamaica)", "Main- Pepperpot (Antigua and Barbuda)", "Appetizer- Fungee (Antigua and Barbuda)", "Main- Cou-Cou (Barbados) ", "Appetizer- Fish Cakes(Barbados)", "Main-Callaloo Soup (Dominica)","Main- Mangu (Dominician Republic)", "Appetizer- Mofongo (Dominica)", "Main- Oil Down (Grenada)", "Main- Jerk Chicken (Jamaica)", "Appetizer- Stewed Conch (Saint Kitts and Nevis)", "Appetizer- Jamaican Patty(Jamaica)", "Appetizer- Fried Plantains(Saint Vincent and the Grenadines)", "Main- Saltfish and Dumplings (Saint Kitts and Nevis)", "Main- Conch Salad(The Bahamas)",  "Appetizer-Bahamian Rock(The Bahamas)", "Main- Ropa Vieja (Cuba)", "Appetizer- Tostones(Cuba)", "Appetizer- Accra(Dominica/Haiti/Saint Lucia)", "Main- Green fish and saltfish (Saint Lucia)", "Main- Roasted Breadfruit (Saint Vincent and the Grenadines)", "Main- Roti and Curry (Trinidad)","Appetizer- Doubles(Trinidad)", "Main- Keshi Yena (Aruba)", "Main- Krioyo (Curaçao)","Appetizer- Bitterballen(Curaçao)", "Main- Curried Goat (Jamaica)" ]
               
-            "seafood": [ "Main- Jerk Chicken", "Appetizer- Jamaican Patty(Jamaica)", "Main- "Saltfish and Dumplings", "Appetizer- "Stewed Conch", (Saint Kitts and Nevis)", "Main- "Oil Down", "Appetizer- "Nutmeg Ice Cream(Grenada)" ]
+            "seafood": [ "Main- Jerk Chicken (Jamaica)", "Appetizer- Nutmeg Ice Cream(Grenada)" , "Appetizer- Accra (Haiti)", "Appetizer- Jamaican Patty(Jamaica)", "Appetizer- Fried Plantains(Saint Vincent and the Grenadines)", "Appetizer- Cheese Rolls (Guyana)", "Appetizer- Fungee (Antigua and Barbuda)","Main- Ropa Vieja (Cuba)", "Appetizer- Tostones(Cuba)", "Appetizer- Accra(Dominica/Haiti/Saint Lucia)", "Main- Roasted Breadfruit (Saint Vincent and the Grenadines)", "Appetizer- Doubles(Trinidad)","Appetizer- Bitterballen(Curaçao)", "Dessert- Coconut Rum Cake (Caribbean)", "Main- Curried Goat (Jamaica)"]
             
-            "none": ["Mofongo (Dominican Republic)", "Tostones (Cuba)", "Bahamian Rock (Bahamas)", "Fungee (Antigua and Barbuda)", "Accra (Saint Lucia)" ["Main- "Pepperpot, "Appettizer- Fungee(Antigua and Barbuda)", "Main- "Ropa Vieja", "Appetizer- "Tostones(Cuba)", "Main- Conch Salad", Bahamian Rock(The Bahamas)", "Main- "Callaloo Soup", "Appetizer- "Accra(Dominica)", "Main- "Mangu, "Appettizer- "Mofongo" (Dominican Republic)", "Main- "Roasted Breadfruit", "Appetizer- "Fried Plantains"(Saint Vincent and the Grenadines)", "Main- "Roti and Curry", "Appetizer- "Doubles"(Trinidad)", "Main- "Keshi Yena" "Appetizer- "Pastechi,(Aruba)" "Main- "Krioyo, "Appetizer- "Bitterballen"(Curaçao)", "Pepperpot (Antigua)", "Ropa Vieja (Cuba)", "Callaloo Soup (Dominican)", "Oil Down (Grenada)", "Griot (Haiti)", "Saltfish and Dumplings (Saint Kitts and Nevis)", "Main- "Jerk Chicken", "Appetizer- "Jamaican Patty"(Jamaica)", "Main- "Saltfish and Dumplings", "Appetizer- "Stewed Conch", (Saint Kitts and Nevis)", "Main- "Oil Down", "Appetizer- "Nutmeg Ice Cream(Grenada)" ]
+            "none": ["Main- Pepperpot(Antigua and Barbuda)", "Appetizer- Fungee(Antigua and Barbuda)", "Main- Ropa Vieja (Cuba)", "Appetizer- Tostones(Cuba)", "Main- Conch Salad(The Bahamas)" , "Appetizer-Bahamian Rock(The Bahamas)", "Main- Callaloo Soup(Dominica)", "Appetizer- Accra(Dominica)", "Main- Mangu (Dominica)", "Appetizer- Mofongo (Dominica)", "Main- Roasted Breadfruit (Saint Vincent and the Grenadines)", "Appetizer- Fried Plantains(Saint Vincent and the Grenadines)", "Main- Roti and Curry (Trinidad)", "Appetizer- Doubles(Trinidad)", "Main- Keshi Yena (Aruba)", "Appetizer- Pastechi(Aruba)",  "Main- Krioyo (Curaçao)", "Appetizer- Bitterballen(Curaçao)", "Appetizer- Accra (Haiti)", "Main- Oil Down (Grenada)", "Appetizer- Stewed Conch (Saint Kitts and Nevis)", "Appetizer- Jamaican Patty(Jamaica)", "Main- Saltfish and Dumplings (Saint Kitts and Nevis)" , "Appetizer- Cheese Rolls (Guyana)", "Appetizer- Nutmeg Ice Cream(Grenada)", "Main- Cou-Cou (Barbados) ", "Appetizer- Fish Cakes(Barbados)", "Main- Griot (Haiti)", "Appetizer- Accra(Dominica/Haiti/Saint Lucia)",  "Main- Jerk Chicken (Jamaica)" , "Main- Green fish and saltfish (Saint Lucia)" , "Dessert- Coconut Rum Cake (Caribbean)", "Main- Curried Goat (Jamaica)" ]
             ]
           }
         ]
@@ -103,7 +103,7 @@
         "vegan": true,
         "allergies": [
           {
-            "nuts": ["Channa and Aloo (Chickpea and Potato) with Peanuts (Trinidad and Tobago)","Fruit Salad with Toasted Coconut and Macadamia Nuts", "Main- "Pepperpot, "Appettizer- Fungee(Antigua and Barbuda)", "Main- "Ropa Vieja", "Appetizer- "Tostones(Cuba)", "Main- Conch Salad", Bahamian Rock(The Bahamas)", "Main- "Callaloo Soup", "Appetizer- "Accra(Dominica)", "Main- "Mangu, "Appettizer- "Mofongo" (Dominican Republic)", "Main- "Roasted Breadfruit", "Appetizer- "Fried Plantains"(Saint Vincent and the Grenadines)", "Main- "Roti and Curry", "Appetizer- "Doubles"(Trinidad)", "Main- "Keshi Yena" "Appetizer- "Pastechi,(Aruba)" "Main- "Krioyo, "Appetizer- "Bitterballen"(Curaçao)",(Caribbean)"],
+            "nuts": ["Channa and Aloo (Chickpea and Potato) with Peanuts (Trinidad and Tobago)","Fruit Salad with Toasted Coconut and Macadamia Nuts", "Main- "Pepperpot, "Appettizer- Fungee(Antigua and Barbuda)", "Main- "Ropa Vieja", "Appetizer- "Tostones(Cuba)", "Main- Conch Salad", Bahamian Rock(The Bahamas)", "Main- "Callaloo Soup", "Appetizer- "Accra(Dominica)", "Main- "Mangu, "Appettizer- "Mofongo" (Dominica)", "Main- "Roasted Breadfruit", "Appetizer- "Fried Plantains"(Saint Vincent and the Grenadines)", "Main- "Roti and Curry", "Appetizer- "Doubles"(Trinidad)", "Main- "Keshi Yena" "Appetizer- "Pastechi,(Aruba)" "Main- "Krioyo, "Appetizer- "Bitterballen"(Curaçao)",(Caribbean)"],
             
             "none": [ ]
           }
