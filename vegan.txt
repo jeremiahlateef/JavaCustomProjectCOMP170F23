@@ -1,0 +1,3 @@
+Do you have any allergies. If yes, pick from the option given below or none if you don't have any allergies.
+A. Nuts
+B. No Allergies
