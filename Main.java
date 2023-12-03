@@ -14,11 +14,11 @@ public class Main {
         /*
         Pseudo Code
   *      The first step is to import the Scanner method to request for user data.
-  *     The second step is to print a welcome statement that informs the user on what the program entails.
-  *      The user will be asked to provide a response on three questions. The questions will be stored in three variables.
+  *     The second step is to print a welcome statement that informs the user on what the program does.
+  *      The user will be asked to provide a response to three questions. The questions will be stored in three variables.
   *     The questions will be structured inside three different methods.
 
-  *     In each of the method, a response from the user is necessary. To ensure the user provides a response,
+  *     In each of the methods, a response from the user is necessary. To ensure the user provides a response,
         two tests would be implemented. The first test would check if the user returns an empty statement,
         and request for a response if an empty statement is returned.
 
@@ -50,7 +50,7 @@ public class Main {
 
         There are four main key/value pairs in the JSON file.
         The keys are in this order: Europe, Africa, Asia, and Caribbean. The value of each pair is stored in an object.
-        Each key has an array named "meal".   In the meal, there are two objects.
+        Each key has an array named "menu".   In the menu, there are two objects.
         The first object stores menus for non-vegans("vegan": false), the second for vegans("vegan": true).
         Each of the object has an allergies array that contains the menus for each of the main key.
         The allergies array for non-vegans has an object that contains four values/elements. They are "nuts", "dairy", "seafood", and "none".
@@ -118,10 +118,10 @@ public class Main {
         //Get continent/region from responseOne variable
         Map continent = ((Map) recipeObj.get(responseOne));
 
-        //Create an array and get the meal array from the continent object
+        //Create an array and get the menu array from the continent object
         JSONArray recipeArr = (JSONArray) continent.get("menu");
 
-        //create an iterator for the meal array
+        //create an iterator for the menu array
         Iterator<Object> mealIterator = recipeArr.iterator();
 
         //Create a boolean variable to retrieve the vegan menu based on its truism or falsity.
@@ -208,7 +208,7 @@ public class Main {
         }
 
 //        print out the user response
-        System.out.print("Thank you for the answer. You chose " + continent + ".");
+        System.out.print("Thank you for your response. You chose " + continent + ".");
         System.out.println();
         System.out.println();
 
@@ -244,7 +244,7 @@ public class Main {
         }
 //        Test to make sure the user pick a response among the predefined values.
         while (!(diet.equals("A")) && !(diet.equals("B"))) {
-            System.out.println("Please select a response between A or B");
+            System.out.println("Please select a response A or B");
             diet = console.nextLine();
             diet = diet.toUpperCase();
         }
@@ -257,7 +257,7 @@ public class Main {
         }
 
 //    Print out the user response.
-        System.out.print("Thank you for your answer. Your preference is " + diet + ".");
+        System.out.print("Thank you for your response. Your dietary preference is " + diet + ".");
         System.out.println();
         System.out.println();
 
@@ -310,7 +310,7 @@ public class Main {
         }
 
         //        print out the user response
-        System.out.print("Thank you for the answer. Your allergen is " + question + ".");
+        System.out.print("Thank you for the response. Your allergen is " + question + ".");
         System.out.println();
         System.out.println();
 
@@ -358,7 +358,7 @@ public class Main {
         }
 
 //        Print our the user response
-        System.out.print("Thank you for the answer. Your allergen is " + question + ".");
+        System.out.print("Thank you for your response. Your allergy is " + question + ".");
         System.out.println();
         System.out.println();
 
